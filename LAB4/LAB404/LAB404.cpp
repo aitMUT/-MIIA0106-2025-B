@@ -1,0 +1,12 @@
+﻿#include <iostream>
+using namespace std;
+int main() {
+    int id_digits = 20; // เลขท้าย 2 ตัวของรหัสนักศึกษา
+    cout << "Multiplication Table of " << id_digits << endl;
+    cout << "-----------------------------" << endl;
+    // วนลูปตั้งแต่ 1 ถึง 20
+    for (int i = 1; i <= 20; i++) {
+        cout << id_digits << " x " << i << " = " << (id_digits * i) << endl;
+    }
+    return 0;
+}
