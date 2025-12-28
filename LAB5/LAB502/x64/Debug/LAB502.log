@@ -1,0 +1,4 @@
+﻿  LAB502.cpp
+D:\เรียน\2 68\ภาษาซี และไพรทรอน\LAB\แบบฝึกหัด\LAB5\ครั้งที่ 1\LAB502\LAB502.cpp(41,2): error C2065: 'minvalue': undeclared identifier
+D:\เรียน\2 68\ภาษาซี และไพรทรอน\LAB\แบบฝึกหัด\LAB5\ครั้งที่ 1\LAB502\LAB502.cpp(41,13): error C3861: 'minOfThree': identifier not found
+D:\เรียน\2 68\ภาษาซี และไพรทรอน\LAB\แบบฝึกหัด\LAB5\ครั้งที่ 1\LAB502\LAB502.cpp(42,38): error C2065: 'minvalue': undeclared identifier

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\GitHub\\-MIIA0106-2025-B\\LAB02\\Test01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CCADEA-A6B4-48B3-853C-F24C558B32A0}|Test01.vcxproj|D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\GitHub\\-MIIA0106-2025-B\\LAB02\\Test01\\Test01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6CCADEA-A6B4-48B3-853C-F24C558B32A0}|Test01.vcxproj|solutionrelative:Test01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test01.cpp",
+              "DocumentMoniker": "D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\GitHub\\-MIIA0106-2025-B\\LAB02\\Test01\\Test01.cpp",
+              "RelativeDocumentMoniker": "Test01.cpp",
+              "ToolTip": "D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\GitHub\\-MIIA0106-2025-B\\LAB02\\Test01\\Test01.cpp",
+              "RelativeToolTip": "Test01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-23T10:09:43.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

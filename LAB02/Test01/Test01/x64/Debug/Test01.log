@@ -1,0 +1,3 @@
+﻿  Test01.cpp
+D:\เรียน\2 68\ภาษาซี และไพรทรอน\LAB\GitHub\-MIIA0106-2025-B\LAB02\Test01\Test01.cpp(7,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Test01.vcxproj -> D:\เรียน\2 68\ภาษาซี และไพรทรอน\LAB\GitHub\-MIIA0106-2025-B\LAB02\Test01\x64\Debug\Test01.exe
