@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\\u0E41\u0E1A\u0E1A\u0E1D\u0E36\u0E01\u0E2B\u0E31\u0E14\\LAB7\\LAB7-01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60A9A39F-6E73-4E86-BEB9-D71749821EE0}|..\\LAB7-06\\LAB7-06.vcxproj|D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\\u0E41\u0E1A\u0E1A\u0E1D\u0E36\u0E01\u0E2B\u0E31\u0E14\\LAB7\\LAB7-06\\LAB7-06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62E6EDA-7082-43E3-BD0C-9C949F33D2B0}|..\\LAB7-05\\LAB7-05.vcxproj|D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\\u0E41\u0E1A\u0E1A\u0E1D\u0E36\u0E01\u0E2B\u0E31\u0E14\\LAB7\\LAB7-05\\LAB7-05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF8760F-1492-4AF6-B2F9-7715EFCEFB0B}|..\\LAB7-04\\LAB7-04.vcxproj|D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\\u0E41\u0E1A\u0E1A\u0E1D\u0E36\u0E01\u0E2B\u0E31\u0E14\\LAB7\\LAB7-04\\LAB7-04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D499AD1-D827-4ABC-9003-2DAF866BF6D8}|..\\LAB7-02\\LAB7-02.vcxproj|D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\\u0E41\u0E1A\u0E1A\u0E1D\u0E36\u0E01\u0E2B\u0E31\u0E14\\LAB7\\LAB7-02\\LAB7-02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91FB04A9-F9CE-4941-AE44-08CDA7053663}|..\\LAB7-03\\LAB7-03.vcxproj|D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\\u0E41\u0E1A\u0E1A\u0E1D\u0E36\u0E01\u0E2B\u0E31\u0E14\\LAB7\\LAB7-03\\LAB7-03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0F9461-F6DB-49E9-BED0-C2B119B18777}|LAB7-01.vcxproj|D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\\u0E41\u0E1A\u0E1A\u0E1D\u0E36\u0E01\u0E2B\u0E31\u0E14\\LAB7\\LAB7-01\\LAB7-01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB0F9461-F6DB-49E9-BED0-C2B119B18777}|LAB7-01.vcxproj|solutionrelative:LAB7-01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB7-06.cpp",
+              "DocumentMoniker": "D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\\u0E41\u0E1A\u0E1A\u0E1D\u0E36\u0E01\u0E2B\u0E31\u0E14\\LAB7\\LAB7-06\\LAB7-06.cpp",
+              "RelativeDocumentMoniker": "..\\LAB7-06\\LAB7-06.cpp",
+              "ToolTip": "D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\\u0E41\u0E1A\u0E1A\u0E1D\u0E36\u0E01\u0E2B\u0E31\u0E14\\LAB7\\LAB7-06\\LAB7-06.cpp*",
+              "RelativeToolTip": "..\\LAB7-06\\LAB7-06.cpp*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-28T09:43:28.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB7-05.cpp",
+              "DocumentMoniker": "D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\\u0E41\u0E1A\u0E1A\u0E1D\u0E36\u0E01\u0E2B\u0E31\u0E14\\LAB7\\LAB7-05\\LAB7-05.cpp",
+              "RelativeDocumentMoniker": "..\\LAB7-05\\LAB7-05.cpp",
+              "ToolTip": "D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\\u0E41\u0E1A\u0E1A\u0E1D\u0E36\u0E01\u0E2B\u0E31\u0E14\\LAB7\\LAB7-05\\LAB7-05.cpp",
+              "RelativeToolTip": "..\\LAB7-05\\LAB7-05.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-28T09:32:45.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LAB7-04.cpp",
+              "DocumentMoniker": "D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\\u0E41\u0E1A\u0E1A\u0E1D\u0E36\u0E01\u0E2B\u0E31\u0E14\\LAB7\\LAB7-04\\LAB7-04.cpp",
+              "RelativeDocumentMoniker": "..\\LAB7-04\\LAB7-04.cpp",
+              "ToolTip": "D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\\u0E41\u0E1A\u0E1A\u0E1D\u0E36\u0E01\u0E2B\u0E31\u0E14\\LAB7\\LAB7-04\\LAB7-04.cpp",
+              "RelativeToolTip": "..\\LAB7-04\\LAB7-04.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-28T09:21:46.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LAB7-03.cpp",
+              "DocumentMoniker": "D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\\u0E41\u0E1A\u0E1A\u0E1D\u0E36\u0E01\u0E2B\u0E31\u0E14\\LAB7\\LAB7-03\\LAB7-03.cpp",
+              "RelativeDocumentMoniker": "..\\LAB7-03\\LAB7-03.cpp",
+              "ToolTip": "D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\\u0E41\u0E1A\u0E1A\u0E1D\u0E36\u0E01\u0E2B\u0E31\u0E14\\LAB7\\LAB7-03\\LAB7-03.cpp",
+              "RelativeToolTip": "..\\LAB7-03\\LAB7-03.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-28T09:13:16.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LAB7-02.cpp",
+              "DocumentMoniker": "D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\\u0E41\u0E1A\u0E1A\u0E1D\u0E36\u0E01\u0E2B\u0E31\u0E14\\LAB7\\LAB7-02\\LAB7-02.cpp",
+              "RelativeDocumentMoniker": "..\\LAB7-02\\LAB7-02.cpp",
+              "ToolTip": "D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\\u0E41\u0E1A\u0E1A\u0E1D\u0E36\u0E01\u0E2B\u0E31\u0E14\\LAB7\\LAB7-02\\LAB7-02.cpp",
+              "RelativeToolTip": "..\\LAB7-02\\LAB7-02.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-28T09:01:16.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LAB7-01.cpp",
+              "DocumentMoniker": "D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\\u0E41\u0E1A\u0E1A\u0E1D\u0E36\u0E01\u0E2B\u0E31\u0E14\\LAB7\\LAB7-01\\LAB7-01.cpp",
+              "RelativeDocumentMoniker": "LAB7-01.cpp",
+              "ToolTip": "D:\\\u0E40\u0E23\u0E35\u0E22\u0E19\\2 68\\\u0E20\u0E32\u0E29\u0E32\u0E0B\u0E35 \u0E41\u0E25\u0E30\u0E44\u0E1E\u0E23\u0E17\u0E23\u0E2D\u0E19\\LAB\\\u0E41\u0E1A\u0E1A\u0E1D\u0E36\u0E01\u0E2B\u0E31\u0E14\\LAB7\\LAB7-01\\LAB7-01.cpp",
+              "RelativeToolTip": "LAB7-01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-28T08:57:18.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
